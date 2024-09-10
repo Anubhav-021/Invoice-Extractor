@@ -23,53 +23,9 @@ The MultiLanguage Invoice Extractor is a Streamlit application designed to simpl
 ## 📷 Screenshots
 Here are a few screenshots to give you a feel for the app:
 
-Main Interface: The header and input fields where users can upload invoices and input prompts.
-Uploaded Image Preview: A preview of the uploaded invoice image.
-AI Response: The app’s response to a user’s query based on the uploaded invoice.
-🚀 Getting Started
-Prerequisites:
-Python 3.x
-Streamlit
-Pillow
-google-generativeai
-dotenv
-Installation
-Clone the Repository:
+![Screenshot 2024-09-10 170538](https://github.com/user-attachments/assets/be8f081f-a505-45ca-875f-5084eedc7de8)
+![Screenshot 2024-09-10 170549](https://github.com/user-attachments/assets/c5c93a06-5174-4114-b395-fc0082bcda5c)
 
-bash
-Copy code
-git clone https://github.com/yourusername/multilanguage-invoice-extractor.git
-cd multilanguage-invoice-extractor
-Install Dependencies:
-
-bash
-Copy code
-pip install -r requirements.txt
-Set Up Environment Variables:
-
-Create a .env file in the root directory of your project and add your Google API key:
-
-plaintext
-Copy code
-GOOGLE_API_KEY=your_google_api_key_here
-Run the Application:
-
-bash
-Copy code
-streamlit run app.py
-Usage
-Once the app is running, you can open it in your browser, upload an invoice image, and start querying the invoice content.
-
-🤝 Contributing
-Contributions are welcome! If you have any ideas or improvements, feel free to open an issue or submit a pull request. Make sure to follow the contributing guidelines.
-
-📝 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-🙏 Acknowledgments
-A special thanks to Google for providing the Generative AI tools that power this application. Also, a shoutout to the Streamlit team for making it so easy to build and deploy web apps!
-
-Feel free to modify the content to better suit your style or add any additional details that you think are relevant!
 
 
 
